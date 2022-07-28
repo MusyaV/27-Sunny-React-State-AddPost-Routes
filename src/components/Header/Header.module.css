@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    color: rgb(2, 79, 79);
+    grid-area: h;
+    background-color: rgba(44, 155, 118, 0.427);
+  }
+  .imgLogo{
+    width: 50px;
+  }

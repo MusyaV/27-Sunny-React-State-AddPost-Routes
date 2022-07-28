@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  grid-area: n;
+  background-color: rgba(127, 255, 212, 0.405);
+  padding: 10px;
+}
+.item {
+  text-decoration: none;
+  color: black;
+}
+.active {
+  text-decoration: none;
+  color: rgb(251, 0, 255);
+}
